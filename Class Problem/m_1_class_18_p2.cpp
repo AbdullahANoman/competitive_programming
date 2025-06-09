@@ -3,16 +3,14 @@
 using namespace std;
 
 int main() {
-   int t;
-    cin >> t ;
-    int x=1;
-    while (x<=t) {
+    int t;
+    cin >> t;
+
+    for (int i = 0; i < t; i++) {
         int n,m;
         cin >> n >> m;
-        int sum =n+m;
-        cout << "Case " << x << ": " << sum << endl;
-        x++;
+        cout << "Case " << i+1 << ":" << n+m << endl;
     }
-    return 0;
 
+    return 0;
 }
