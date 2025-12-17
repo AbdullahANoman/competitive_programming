@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/problm_solved_with_cps.iml" filepath="$PROJECT_DIR$/.idea/problm_solved_with_cps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/competitive_programming.iml" filepath="$PROJECT_DIR$/.idea/competitive_programming.iml" />
     </modules>
   </component>
 </project>

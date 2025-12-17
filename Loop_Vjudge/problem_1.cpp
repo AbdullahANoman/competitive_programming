@@ -1,9 +1,12 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace  std;
 
 int main () {
-    for (int i=0; i<1000; i++) {
-        cout << "Hello World" << endl;
-    }
+    int n;
+    cin >>  n ;
+    int sum = n*(n+1)/2;
+    cout << "Even Sum: ";
+ 
+    cout << sum << endl;
     return 0;
 }
